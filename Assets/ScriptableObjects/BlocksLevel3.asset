@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 496b3d4c2c5974947b566a75033516fb, type: 3}
+  m_Name: BlocksLevel3
+  m_EditorClassIdentifier: 
+  _blockPrefabs:
+  - {fileID: 968319277320951487, guid: 2602b76dd3b70cc418124028cd742ca2, type: 3}
+  - {fileID: 968319277320951487, guid: e8167d4ed887c134e97a1423aeb91c7c, type: 3}
+  - {fileID: 968319277320951487, guid: 68004f656da97d44e9e5b9145a8c6fed, type: 3}
+  - {fileID: 968319277320951487, guid: 364f72498e43e3e4cb9db095c6e56ff6, type: 3}
+  - {fileID: 968319277320951487, guid: 63a4c2df9075e154e86bd05a101a64b5, type: 3}
+  - {fileID: 968319277320951487, guid: e04b48c4a61f92841b0e940b15de98eb, type: 3}
+  - {fileID: 968319277320951487, guid: 00a8969723ab36047a84f25261ee78d4, type: 3}
+  - {fileID: 968319277320951487, guid: 1ce95cfdc9283874590da8f1c527e35b, type: 3}
